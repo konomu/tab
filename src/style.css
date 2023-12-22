@@ -38,3 +38,7 @@ body, #app {
 #message {
   font-family: "Helvetica Neue", Roboto, sans-serif;
 }
+::selection {
+  background-color: white;
+  color: #0f0f0f;
+}
